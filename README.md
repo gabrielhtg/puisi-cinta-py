@@ -2,7 +2,7 @@
 
 Ini adalah program yang dibuat dengan bahasa pemrograman Pyhon. Program ini hanya iseng-iseng. Untuk menggombal penggunanya. 
 
-**Penting!! Program ini dibuat khusus untuk cewek!! :love:**
+**Penting!! Program ini dibuat khusus untuk cewek!!** :heart:
 
 ## <b>About Me</b>
 
